@@ -24,7 +24,7 @@ Some ready-made functions were provided based on the 're' library that facilitat
 #### Preview of the code I did:
 https://github.com/bonett1/Coursera-USP---Python---Parte-1/assets/118580493/805f19fe-5632-4b74-9812-b63b8b697f37
 
-#### See the complete code: [código_completo ](https://github.com/bonett1/Coursera-USP---Python---Parte-1/blob/e2bb10235729ef61b139cda3256ad05c2860f914/coh_piah.py)
+#### See the complete code: [complete_code](https://github.com/bonett1/Coursera-USP---Python---Parte-1/blob/e2bb10235729ef61b139cda3256ad05c2860f914/coh_piah.py)
 
 ## Thank you for your attention 😊
 If you made it this far, THANK YOU SO MUCH, your time is very important and I appreciate you spending it seeing one of my projects.
