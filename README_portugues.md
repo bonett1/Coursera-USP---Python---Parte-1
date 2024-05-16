@@ -31,3 +31,5 @@ https://github.com/bonett1/Coursera-USP---Python---Parte-1/assets/118580493/805f
 Se você chegou a ler até aqui, MUITO OBRIGADO, mesmo, seu tempo é muito importante e agradeço por gastá-lo vendo um projeto meu.
 
 Estou apenas começando uma jornada de ser um Cientista de Dados, e Python será muito importante para este meu objetivo, me siga para mais conteúdos e projetos de um estudante de Data Science.
+
+Tchau.
